@@ -19,3 +19,13 @@
 <div>
   <a href = "https://leetcode.com/gymgle/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgymgle&logo=leetcode&logoColor=yellow" target="_blanl"></a>
 </div>
+
+##
+
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gymgle/gymgle/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gymgle/gymgle/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/gymgle/gymgle/blob/output/github-contribution-grid-snake.svg">
+</picture>
+<div>
